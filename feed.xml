@@ -3,7 +3,7 @@
     <title>VOOPO</title>
     <link href="https://iosapp.pw/feed.xml" rel="self" />
     <link href="https://iosapp.pw" />
-    <updated>2020-02-08T22:13:50+08:00</updated>
+    <updated>2020-02-08T22:38:00+08:00</updated>
     <author>
         <name>VOOPO</name>
     </author>
@@ -16,8 +16,9 @@
         </author>
         <link href="https://iosapp.pw/android/index.html"/>
         <id>https://iosapp.pw/android/index.html</id>
+            <category term="安卓手机"/>
 
-        <updated>2020-02-08T13:28:36+08:00</updated>
+        <updated>2020-02-08T22:24:26+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://iosapp.pw/media/posts/1/android.jpg" alt="" />
@@ -65,8 +66,9 @@
         </author>
         <link href="https://iosapp.pw/iphone/index.html"/>
         <id>https://iosapp.pw/iphone/index.html</id>
+            <category term="苹果手机"/>
 
-        <updated>2020-02-08T13:29:19+08:00</updated>
+        <updated>2020-02-08T22:24:20+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://iosapp.pw/media/posts/2/iphonex.jpg" alt="" />
@@ -120,8 +122,9 @@
         </author>
         <link href="https://iosapp.pw/windows/index.html"/>
         <id>https://iosapp.pw/windows/index.html</id>
+            <category term="PC电脑"/>
 
-        <updated>2020-02-08T13:28:17+08:00</updated>
+        <updated>2020-02-08T22:24:15+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://iosapp.pw/media/posts/3/win10.jpg" alt="" />
@@ -169,8 +172,9 @@
         </author>
         <link href="https://iosapp.pw/macbook/index.html"/>
         <id>https://iosapp.pw/macbook/index.html</id>
+            <category term="Mac电脑"/>
 
-        <updated>2020-02-08T13:28:31+08:00</updated>
+        <updated>2020-02-08T22:24:10+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://iosapp.pw/media/posts/4/mac.jpg" alt="" />
@@ -218,8 +222,9 @@
         </author>
         <link href="https://iosapp.pw/linux/index.html"/>
         <id>https://iosapp.pw/linux/index.html</id>
+            <category term="Linux系统"/>
 
-        <updated>2020-02-08T13:28:24+08:00</updated>
+        <updated>2020-02-08T22:26:38+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://iosapp.pw/media/posts/5/linux.jpg" alt="" />
