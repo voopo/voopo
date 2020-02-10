@@ -3,21 +3,105 @@
     <title>VOOPO</title>
     <link href="https://iosapp.pw/feed.xml" rel="self" />
     <link href="https://iosapp.pw" />
-    <updated>2020-02-10T06:23:37+08:00</updated>
+    <updated>2020-02-10T06:30:47+08:00</updated>
     <author>
         <name>VOOPO</name>
     </author>
     <id>https://iosapp.pw</id>
 
     <entry>
-        <title>安卓手机在 Surfboard 上配置</title>
+        <title>苹果Mac在 Shadowrocket 配置</title>
+        <author>
+            <name>VOOPO</name>
+        </author>
+        <link href="https://iosapp.pw/shadowsocksx-ng/index.html"/>
+        <id>https://iosapp.pw/shadowsocksx-ng/index.html</id>
+            <category term="Mac电脑"/>
+
+        <updated>2020-02-10T06:27:37+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://iosapp.pw/media/posts/8/mac.jpg" alt="" />
+                    &hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://iosapp.pw/media/posts/8/mac.jpg" alt="" />
+                <blockquote>
+<h2 id="应用概述">应用概述</h2>
+</blockquote>
+<p>ShadowsocksX 是一个拥有 GUI 界面基于 Clash 可自定义规则的 macOS 代理应用。</p>
+<p>支持 Shadowsocks 协议和其 simple-obfs 插件、v2ray-plugin 插件以及 VMess 协议和其 TCP、WebSocket 等传输方式。</p>
+<blockquote>
+<h2 id="应用下载">应用下载</h2>
+</blockquote>
+<p>应用的下载地址 （官方网站不提供直接下载，您订阅后我们系统会发送到您邮箱里面）</p>
+<p>下载软件包右键打开（几秒后会提取出一个.dmg格式的苹果专用软件包格式打开安装）</p>
+<p>如果下载以及安装步骤不算，总共设置上网配置需要三步骤，下面跟着教程来。</p>
+<p>从邮箱找到Mac软件下载链接，在Mac平台上用浏览器打开下载，下载后是一个压缩包，右键选中它点击「打开」</p>
+<p><img class="post__image post__image--full" src="https://iosapp.pw/media/posts/8/mac-tutorial-1.jpg" alt="" width="980" height="640"></p>
+<blockquote>
+<h2 id="mcetoc_1e0m0dcgm1">打开压缩包</h2>
+</blockquote>
+<p>后会提取出来一个绿色图标的软件如下图，再次点击选中绿色图标的软件点击「打开」</p>
+<p><img class="post__image post__image--full" src="https://iosapp.pw/media/posts/8/mac-tutorial-2.jpg" width="980" height="640"></p>
+<blockquote>
+<h2 id="mcetoc_1e0m0dh092">安装软件</h2>
+</blockquote>
+<p>会弹出提示这是mac的特性，不是在 App Store商店下载的软件都会有这个提示。不用管它点击提示上的「打开」</p>
+<p><img class="post__image post__image--full" src="https://iosapp.pw/media/posts/8/mac-tutorial-3.jpg" width="980" height="640"></p>
+<blockquote>
+<h2 id="mcetoc_1e0m0dkvl3">输入安装密码</h2>
+</blockquote>
+<p>这里是输入您Mac的开机密码（不是App Store商店的账号密码）就安装成功啦，下面就是开始导入我们的配置</p>
+<p><img class="post__image post__image--full" src="https://iosapp.pw/media/posts/8/mac-tutorial-4.jpg" alt="" width="980" height="640"></p>
+<p> </p>
+<blockquote>
+<h2 id="mcetoc_1e0m0du8e4">开始导入配置</h2>
+</blockquote>
+<p>配置第一步骤「导入服务器URL」（从哪来，当然是您的邮箱啊）</p>
+<p>第二步骤「导入服务器URLS」（分别导入每个链接如下格式的密匙地址）</p>
+<p>第三步骤「其他默认底部备注修改以下节点的名字方便记忆，您也可以忽略这步骤」</p>
+<p>第四步骤「没有第四步啦已经完成，接下来就是打开或者关闭代理」开始耍吧！</p>
+<p>注意：一般情况下，建议新手使用PAC模式，可以将SSR常驻后台，既可以科学上网，也不影响国内网站。若遇到个别网站打不开的情况，可以尝试开启全局模式。</p>
+<p><img class="post__image post__image--full" src="https://iosapp.pw/media/posts/8/mac-tutorial-5.jpg" alt="" width="980" height="640"></p>
+<p> </p>
+<ul>
+<li>
+<blockquote><strong>3个月订阅会员，将额外拥有1条香港CN2专线，快速客服响应</strong></blockquote>
+</li>
+<li>
+<blockquote><strong>6个月订阅超级会员，将额外拥有1条香港CN2和1条日本CN2专线，快速客服响应</strong></blockquote>
+</li>
+<li>
+<blockquote><strong>12个月超级赞助会员，至尊服务享受全球节点分布,快速客服响应并且提供专属VIP服务微信😘</strong></blockquote>
+</li>
+</ul>
+<p class="msg--info"> 1️⃣ 关于密匙使用和限速说明</p>
+<p class="msg msg--info msg--highlight   msg--success">每个用户订阅套餐后邮箱会收到4个密匙用于加速，每个密匙每月流量限制20G共计80G流量，达到峰值即开始限速度(限速后除了还能刷个网页，其他什么也玩不了啦，玩游戏看视频看直播不要想啦😅)没有办法我也不想限速呀，基础流量太贵了☹️所以您自己用玩游戏刷微博看片怎么耍都够用了，请勿把您的密匙分享给别人</p>
+<p class="msg--info">  2️⃣ 关于游戏速度和激情说明</p>
+<p class="msg msg--info msg--highlight  msg--success">我们订阅套餐的计划是每30人共用4台服务器（随着用户递增无限类推）中央服务器部署了负载均衡技术，基本可以保证每个人的速度都很快的，如果您发现正在连接的线路卡顿，请换一个线路试试🤔不可以用来过度下载，比如一天下载几十G的哪种，少侠开车慢点啊!</p>
+<p> </p>
+<p class="msg--info">  3️⃣ 有人说我们加速器贵，友商的5-10元/月我们25元/月为什么?</p>
+<p class="msg msg--info msg--success">答:我是一名phony程序员，我对速度和体验有极致的要求!  所有我们不打算拼价格! 我们都是专线并且有负载均衡架构，每30人共用一台服务器可以保证每个用户都能享受到高速不卡顿，友商一台服务器几百几千人在用，速度和成本能一样吗? 您品您细品😔</p>
+<p> </p>
+<p class="msg--info">  4️⃣ 密匙包用吗? 包更新吗?</p>
+<p class="msg msg--info msg--success">答:包用的，我们有线路状态页面，您可以点击在线聊天查看我们服务器状态，如果线路掉了包补(您懂的这行没有人敢保证您线路一直稳定)这也是我们为什么要您提供邮箱的原因，有情况及时给您发送新线路和密匙😛</p>
+<p class="msg--info"> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>安卓手机在 Surfboard 配置</title>
         <author>
             <name>VOOPO</name>
         </author>
         <link href="https://iosapp.pw/surfboard/index.html"/>
         <id>https://iosapp.pw/surfboard/index.html</id>
+            <category term="安卓手机"/>
 
-        <updated>2020-02-10T06:22:50+08:00</updated>
+        <updated>2020-02-10T06:28:05+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://iosapp.pw/media/posts/7/android.jpg" alt="" />
@@ -31,15 +115,10 @@
 <p>Surfboard 是在 Android 平台上的客户端软件，支持 Shadowsocks 协议。</p>
 <p>目前此应用程序仍然处于测试版，因此界面和功能在未来都可能发生改动。</p>
 <h2 id="应用下载">应用下载</h2>
-<p>以下是各平台该应用的下载地址。</p>
-<ul>
-<li>Android：HockeyAPP</li>
-<li>...</li>
-</ul>
-<p>此处您需要自行操作，参与测试并下载安装应用，完成后打开该应用，登录 HockeyAPP 的账户。</p>
-<h2 id="获取订阅">获取订阅</h2>
-<p>查阅您的电子邮箱收件箱，有我们系统发送的下载链接和您的<strong>订阅链接</strong>密匙</p>
-<p class="tip">这个 <strong>订阅链接</strong> 非常重要，你应当把它当做密码一样妥善保管。</p>
+<p>应用的下载地址 （官方网站不提供直接下载，您订阅后我们系统会发送到您邮箱里面）</p>
+<p>下载软件包右键打开（几秒后会提取出一个.dmg格式的苹果专用软件包格式打开安装）</p>
+<p>如果下载以及安装步骤不算，总共设置上网配置需要三步骤，下面跟着教程来。</p>
+<p> </p>
 <h2 id="配置-surfboard">配置 Surfboard</h2>
 <p>打开 Surfboard 点击底部导航栏的「配置」进入配置管理页面。</p>
 <p>随后点击右下角的加号按钮，在弹出的选项中选择「使用链接下载」。</p>
@@ -66,8 +145,18 @@
 <li>ShadowsocksR</li>
 </ul>
 <p> </p>
-<p> </p>
-<p class="msg--info">1️⃣ 关于密匙使用和限速说明</p>
+<ul>
+<li>
+<blockquote><strong>3个月订阅会员，将额外拥有1条香港CN2专线，快速客服响应</strong></blockquote>
+</li>
+<li>
+<blockquote><strong>6个月订阅超级会员，将额外拥有1条香港CN2和1条日本CN2专线，快速客服响应</strong></blockquote>
+</li>
+<li>
+<blockquote><strong>12个月超级赞助会员，至尊服务享受全球节点分布,快速客服响应并且提供专属VIP服务微信😘</strong></blockquote>
+</li>
+</ul>
+<p class="msg--info"> 1️⃣ 关于密匙使用和限速说明</p>
 <p class="msg msg--info msg--highlight   msg--success">每个用户订阅套餐后邮箱会收到4个密匙用于加速，每个密匙每月流量限制20G共计80G流量，达到峰值即开始限速度(限速后除了还能刷个网页，其他什么也玩不了啦，玩游戏看视频看直播不要想啦😅)没有办法我也不想限速呀，基础流量太贵了☹️所以您自己用玩游戏刷微博看片怎么耍都够用了，请勿把您的密匙分享给别人</p>
 <p class="msg--info">  2️⃣ 关于游戏速度和激情说明</p>
 <p class="msg msg--info msg--highlight  msg--success">我们订阅套餐的计划是每30人共用4台服务器（随着用户递增无限类推）中央服务器部署了负载均衡技术，基本可以保证每个人的速度都很快的，如果您发现正在连接的线路卡顿，请换一个线路试试🤔不可以用来过度下载，比如一天下载几十G的哪种，少侠开车慢点啊!</p>
@@ -77,7 +166,7 @@
 <p> </p>
 <p class="msg--info">  4️⃣ 密匙包用吗? 包更新吗?</p>
 <p class="msg msg--info msg--success">答:包用的，我们有线路状态页面，您可以点击在线聊天查看我们服务器状态，如果线路掉了包补(您懂的这行没有人敢保证您线路一直稳定)这也是我们为什么要您提供邮箱的原因，有情况及时给您发送新线路和密匙😛</p>
-<p> </p>
+<p class="msg--info"> </p>
             ]]>
         </content>
     </entry>
@@ -140,7 +229,7 @@
         <id>https://iosapp.pw/iphone/index.html</id>
             <category term="苹果手机"/>
 
-        <updated>2020-02-09T18:12:58+08:00</updated>
+        <updated>2020-02-10T06:22:02+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://iosapp.pw/media/posts/2/iphonex.jpg" alt="" />
