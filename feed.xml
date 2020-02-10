@@ -3,7 +3,7 @@
     <title>VOOPO</title>
     <link href="https://iosapp.pw/feed.xml" rel="self" />
     <link href="https://iosapp.pw" />
-    <updated>2020-02-10T06:07:16+08:00</updated>
+    <updated>2020-02-10T23:46:25+08:00</updated>
     <author>
         <name>VOOPO</name>
     </author>
@@ -196,7 +196,7 @@
         <id>https://iosapp.pw/iphone/index.html</id>
             <category term="苹果手机"/>
 
-        <updated>2020-02-10T06:35:38+08:00</updated>
+        <updated>2020-02-10T23:46:15+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://iosapp.pw/media/posts/2/iphonex.jpg" alt="" />
@@ -209,18 +209,64 @@
                 <p> </p>
 <p><strong>📧请提供真实邮箱用于接收密匙，邮箱为用户的唯一凭证。</strong></p>
 <p><strong>🔥三个简单的步骤即可连接使用。</strong></p>
-<p><strong>👽国内的苹果商店没法直接下载客户端,需要用国外的苹果账号登录下载。</strong></p>
-<p>请使用非中国内地区的 Apple ID 搜索下载应用，本站并不提供破解版的App我也无法破解苹果系统，苹果ios系统除非越狱才可以自由安装软件否者必须要在<strong>App Store</strong>下载安装软件，现在新系列的苹果手机系统想越狱很难👨‍💻....</p>
-<p><span style="text-decoration: line-through;"><strong>我们的系统邮件已经给您发送了一个国外的Apple ID按照下图切换您正在登陆的 Apple ID登录我们提供的账号，下载软件完成后退出我们的账号，换成您自己的 Apple ID（按照下图位置登录，不然还是没法切换到国外商店）</strong></span></p>
-<p>开始：搜索以下软件或者点击下面链接🤪</p>
+<blockquote>
+<p><strong>写在前面：</strong></p>
+</blockquote>
+<p class="msg msg--highlight ">👽国内的苹果商店没法直接下载客户端,需要用国外的苹果账号登录下载，您订阅后我们系统给您发送的邮件有我们提供的<strong> Apple ID </strong>。</p>
+<p class="msg msg--highlight ">ios端使用终于解决啦！伤的一B啊为了解决ios客户端使用问题头都大了！自己也基于开源技术写了一个打包好了但是想了想还是不能上传原因您懂的(我是一名ios开发者🤪)</p>
+<p class="msg msg--highlight ">App Store上的好用的ss连接工具全部是收费，要不然全是广告的免费版啊，我找了好久好像没有免费的！！</p>
+<p class="msg msg--highlight ">收费下载软件肯定不行啊！付费？咋付费？线路要付费？软件还要付费？什么鬼？但是没有办法啊！网上ss可用的工具全是付费下载使用的，我不能接受啊！</p>
+<p class="msg msg--highlight ">找了很久发现Google的项目，但是卧槽了！密匙格式加密方式不一样啊，无法导入到这个项目里啊啊啊啊啊啊啊啊😂，和我搭建的中央管理系统连接格式不一样啊啊啊啊啊啊！无法去下载密匙适配😷经过我一夜的琢磨终于找到方案啦。完美适配所有平台（哎！我为了ios端客户改了所有端的连接密匙格式，写了一个脚本插件生产专用密匙，爆改所有已经设置好的主机，我多么的痛苦！！😭已经可以统一适配ios端配合Outline使用）</p>
+<blockquote>
+<p><strong>言归正传</strong></p>
+</blockquote>
+<p class="msg msg--info"><strong>请使用非中国内地区的 Apple ID 搜索下载应用（中国地区注册的账号没法下载，您根本就搜索不到这个软件或者相关类似的软件），我们的系统邮件已经给您发送了一个国外的Apple ID按照下图切换您正在登陆的 Apple ID登录我们提供的账号，下载软件完成后退出我们的账号，换成您自己的 Apple ID（按照下图位置登录，不然还是没法切换到国外商店😱）</strong></p>
+<p>打开商店：搜索软件名称Outline或者点击下面链接🤪</p>
 <ul>
-<li><a href="https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8" target="_blank" rel="noopener noreferrer">Shadowrocket</a></li>
+<li>
+<p id="mcetoc_1e0ntaajq1" class="product-header__title app-header__title"><a href="https://apps.apple.com/us/app/outline-app/id1356177741">Outline App</a></p>
+</li>
 </ul>
-<p>App Store 上的 App 由其作者进行维护，并非由我们开发，如有疑问，请联系其作者。</p>
-<p><br><br><strong>😂千万注意：千万不要在 iCloud 登陆只能在 App Store 登陆，看下面图片 。</strong></p>
+<p>App Store 上的 Outline App 由其作者Google团队进行维护，并非由我开发，如有疑问，请联系其作者。</p>
+<p class="msg msg--success"><br><strong>😂千万注意：千万不要在 iCloud 登陆只能在 App Store 登陆，看下面图片单独放一张超级重要，先看图要按照图位置切换账号 。</strong></p>
+<p> </p>
+<p> </p>
+<p> </p>
 <p><br><img class="post__image post__image--center" src="https://iosapp.pw/media/posts/2/apple-store.png" width="300" height="208"></p>
-<p>➀:购买后检查您的邮箱收件箱找到系统发送给您app及软件下载链接，以及4条线路的密匙(没有找到看下垃圾信箱)。</p>
-<p><br>➁下载客户端安装(手机平台请将下载链接复制到浏览器打开下载，不要在微信里打开微信屏蔽外链)。</p>
+<blockquote>
+<p class="msg msg--info"><strong>1：点击iTunes Store 与 App Store 进去登录切换成我们的Apple ID 登录过程我就不截图</strong></p>
+<p><strong>安装软件</strong></p>
+</blockquote>
+<ol>
+<li class="align-left">搜索Outline 点击GET安装（根据您网络情况1-2分钟安装完成）</li>
+<li class="align-left">导入适配的密匙（密匙哪里来？当然要订阅呀，订阅后您的邮箱会收到密匙线路）</li>
+<li class="align-left">分别导入每个密匙完成啦，可以上网啦！！！</li>
+</ol>
+<p><img class="post__image post__image--full" src="https://iosapp.pw/media/posts/2/ios-1.jpg" alt="" width="1530" height="889"></p>
+<p> </p>
+<blockquote>
+<p><strong>APP设置修改</strong></p>
+</blockquote>
+<ol>
+<li>按照图1的位置修改线路名称（方便记忆啊）</li>
+<li>点击哪个大灰色圆形图标就开始连接啦会出现图3提示您要在系统增加连接配置</li>
+<li>当然要点击同意，我们为了什么？都到这步啦！必须要同意！点击Allow</li>
+</ol>
+<p><img class="post__image post__image--full" src="https://iosapp.pw/media/posts/2/ios-2.jpg" alt="" width="1530" height="889"></p>
+<p> </p>
+<blockquote>
+<p><strong>超级重要（记得退出我们的ID账号）</strong></p>
+</blockquote>
+<ol>
+<li>承接上一步骤，ios系统要您输入密码或者指纹验证，验证通过就全部完成</li>
+<li>没有要设置的啦开耍吧。记住千万记住搞定了第一时间退出我们的账号，千万不要忘记了</li>
+<li>隐私啊！！！！隐私！！！这是公共号啊！！！！！</li>
+</ol>
+<p><img class="post__image post__image--full" src="https://iosapp.pw/media/posts/2/ios-3.jpg" alt="" width="1530" height="889"></p>
+<p> </p>
+<p> </p>
+<p><span style="text-decoration: line-through;">➀:购买后检查您的邮箱收件箱找到系统发送给您app及软件下载链接，（这个不适用ios手机）</span>以及4条线路的密匙(没有找到看下垃圾信箱)。</p>
+<p><br><span style="text-decoration: line-through;">➁下载客户端安装(手机平台请将下载链接复制到浏览器打开下载，不要在微信里打开微信屏蔽外链)。</span></p>
 <p><br>➂查看您的邮箱系统有发送给您4条线路的密匙分别为ss://开头，分别复制粘贴到我们的客户端即可连接。</p>
 <p><br>➃注意4条密匙每月总共限量80G流量超出后限速，订购的套餐过期失效，请别分享您的密匙给别人，会影响到您的密匙速度以及使用。</p>
 <p>➄套餐到期续费以及使用过程中有任何问题，请通过官方网站右下角蓝色图标与我们客服在线联系。</p>
