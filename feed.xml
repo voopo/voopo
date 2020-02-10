@@ -3,7 +3,7 @@
     <title>VOOPO</title>
     <link href="https://iosapp.pw/feed.xml" rel="self" />
     <link href="https://iosapp.pw" />
-    <updated>2020-02-10T06:20:17+08:00</updated>
+    <updated>2020-02-10T06:23:37+08:00</updated>
     <author>
         <name>VOOPO</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://iosapp.pw/surfboard/index.html"/>
         <id>https://iosapp.pw/surfboard/index.html</id>
 
-        <updated>2020-02-10T06:20:07+08:00</updated>
+        <updated>2020-02-10T06:22:50+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://iosapp.pw/media/posts/7/android.jpg" alt="" />
@@ -27,20 +27,20 @@
         <content type="html">
             <![CDATA[
                     <img src="https://iosapp.pw/media/posts/7/android.jpg" alt="" />
-                <h2 id="应用概述"><a href="https://ssr-a.xyz/doc#/Android/Surfboard?id=%e5%ba%94%e7%94%a8%e6%a6%82%e8%bf%b0"  class="anchor">应用概述</a></h2>
+                <h2 id="应用概述">应用概述</h2>
 <p>Surfboard 是在 Android 平台上的客户端软件，支持 Shadowsocks 协议。</p>
 <p>目前此应用程序仍然处于测试版，因此界面和功能在未来都可能发生改动。</p>
-<h2 id="应用下载"><a href="https://ssr-a.xyz/doc#/Android/Surfboard?id=%e5%ba%94%e7%94%a8%e4%b8%8b%e8%bd%bd"  class="anchor">应用下载</a></h2>
+<h2 id="应用下载">应用下载</h2>
 <p>以下是各平台该应用的下载地址。</p>
 <ul>
 <li>Android：HockeyAPP</li>
 <li>...</li>
 </ul>
 <p>此处您需要自行操作，参与测试并下载安装应用，完成后打开该应用，登录 HockeyAPP 的账户。</p>
-<h2 id="获取订阅"><a href="https://ssr-a.xyz/doc#/Android/Surfboard?id=%e8%8e%b7%e5%8f%96%e8%ae%a2%e9%98%85"  class="anchor">获取订阅</a></h2>
+<h2 id="获取订阅">获取订阅</h2>
 <p>查阅您的电子邮箱收件箱，有我们系统发送的下载链接和您的<strong>订阅链接</strong>密匙</p>
 <p class="tip">这个 <strong>订阅链接</strong> 非常重要，你应当把它当做密码一样妥善保管。</p>
-<h2 id="配置-surfboard"><a href="https://ssr-a.xyz/doc#/Android/Surfboard?id=%e9%85%8d%e7%bd%ae-surfboard"  class="anchor">配置 Surfboard</a></h2>
+<h2 id="配置-surfboard">配置 Surfboard</h2>
 <p>打开 Surfboard 点击底部导航栏的「配置」进入配置管理页面。</p>
 <p>随后点击右下角的加号按钮，在弹出的选项中选择「使用链接下载」。</p>
 <p>分别复制您邮箱收到的每条SS://开头的<strong>订阅链接</strong>密匙到图3位置，点击「下载」此时APP 会下载该配置，随后点击右下角图标保存，默认导入即可。</p>
@@ -52,7 +52,7 @@
 <p>图6请重复步骤导入您收到的每条密匙。</p>
 <p> </p>
 <p><img class="post__image post__image--full" src="https://iosapp.pw/media/posts/7/android-tutorial-2.jpg" alt="" width="1500" height="1083"></p>
-<h2 id="开始使用"><a href="https://ssr-a.xyz/doc#/Android/Surfboard?id=%e5%bc%80%e5%a7%8b%e4%bd%bf%e7%94%a8"  class="anchor">开始使用</a></h2>
+<h2 id="开始使用">开始使用</h2>
 <p>图1：点击底部导航栏中第二个「配置」进入策略组页面。选择当前您要使用的线路节点（当您选中时候节点右边按钮是红色的）</p>
 <p>图2：随后底部导航栏中第一个「切换」进入状态页面，点击右下角播放按钮即可教程已经连接香港CN2线路。（注意看手机顶部导航出现一个O开头的标识代表连上啦，当前网速13.43M/秒高速VIP节点）</p>
 <p>图3：看看就行。在「设置」页面右各种设置，可以设置那些软件使用代理，那些软件不使用代理。等等...</p>
