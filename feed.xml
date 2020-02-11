@@ -3,7 +3,7 @@
     <title>VOOPO</title>
     <link href="https://iosapp.pw/feed.xml" rel="self" />
     <link href="https://iosapp.pw" />
-    <updated>2020-02-10T23:46:25+08:00</updated>
+    <updated>2020-02-11T00:04:52+08:00</updated>
     <author>
         <name>VOOPO</name>
     </author>
@@ -14,11 +14,11 @@
         <author>
             <name>VOOPO</name>
         </author>
-        <link href="https://iosapp.pw/windows-2/index.html"/>
-        <id>https://iosapp.pw/windows-2/index.html</id>
+        <link href="https://iosapp.pw/windows/index.html"/>
+        <id>https://iosapp.pw/windows/index.html</id>
             <category term="PC电脑"/>
 
-        <updated>2020-02-10T06:26:36+08:00</updated>
+        <updated>2020-02-10T23:41:14+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://iosapp.pw/media/posts/10/win10.jpg" alt="" />
@@ -102,11 +102,11 @@
         <author>
             <name>VOOPO</name>
         </author>
-        <link href="https://iosapp.pw/macbook-2/index.html"/>
-        <id>https://iosapp.pw/macbook-2/index.html</id>
+        <link href="https://iosapp.pw/macbook/index.html"/>
+        <id>https://iosapp.pw/macbook/index.html</id>
             <category term="Mac电脑"/>
 
-        <updated>2020-02-10T06:27:03+08:00</updated>
+        <updated>2020-02-10T23:41:26+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://iosapp.pw/media/posts/8/mac.jpg" alt="" />
@@ -196,7 +196,7 @@
         <id>https://iosapp.pw/iphone/index.html</id>
             <category term="苹果手机"/>
 
-        <updated>2020-02-10T23:46:15+08:00</updated>
+        <updated>2020-02-10T23:41:42+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://iosapp.pw/media/posts/2/iphonex.jpg" alt="" />
@@ -216,18 +216,12 @@
 <p class="msg msg--highlight ">ios端使用终于解决啦！伤的一B啊为了解决ios客户端使用问题头都大了！自己也基于开源技术写了一个打包好了但是想了想还是不能上传原因您懂的(我是一名ios开发者🤪)</p>
 <p class="msg msg--highlight ">App Store上的好用的ss连接工具全部是收费，要不然全是广告的免费版啊，我找了好久好像没有免费的！！</p>
 <p class="msg msg--highlight ">收费下载软件肯定不行啊！付费？咋付费？线路要付费？软件还要付费？什么鬼？但是没有办法啊！网上ss可用的工具全是付费下载使用的，我不能接受啊！</p>
-<p class="msg msg--highlight ">找了很久发现Google的项目，但是卧槽了！密匙格式加密方式不一样啊，无法导入到这个项目里啊啊啊啊啊啊啊啊😂，和我搭建的中央管理系统连接格式不一样啊啊啊啊啊啊！无法去下载密匙适配😷经过我一夜的琢磨终于找到方案啦。完美适配所有平台（哎！我为了ios端客户改了所有端的连接密匙格式，写了一个脚本插件生产专用密匙，爆改所有已经设置好的主机，我多么的痛苦！！😭已经可以统一适配ios端配合Outline使用）</p>
+<p class="msg msg--highlight ">找了很久发现Google的项目，但是卧槽了！密匙格式加密方式不一样啊，无法导入到这个项目里啊😂，和我搭建的中央管理系统连接格式不一样无法下载密匙适配😷经过我一夜的琢磨终于找到方案啦。完美适配所有平台（哎！为了ios端客户改了所有端的连接密匙格式，写了一个脚本插件生产专用密匙，爆改所有已经设置好的主机，我多么的痛苦！！😭已经可以统一适配ios端配合Outline使用）</p>
 <blockquote>
 <p><strong>言归正传</strong></p>
 </blockquote>
 <p class="msg msg--info"><strong>请使用非中国内地区的 Apple ID 搜索下载应用（中国地区注册的账号没法下载，您根本就搜索不到这个软件或者相关类似的软件），我们的系统邮件已经给您发送了一个国外的Apple ID按照下图切换您正在登陆的 Apple ID登录我们提供的账号，下载软件完成后退出我们的账号，换成您自己的 Apple ID（按照下图位置登录，不然还是没法切换到国外商店😱）</strong></p>
-<p>打开商店：搜索软件名称Outline或者点击下面链接🤪</p>
-<ul>
-<li>
-<p id="mcetoc_1e0ntaajq1" class="product-header__title app-header__title"><a href="https://apps.apple.com/us/app/outline-app/id1356177741">Outline App</a></p>
-</li>
-</ul>
-<p>App Store 上的 Outline App 由其作者Google团队进行维护，并非由我开发，如有疑问，请联系其作者。</p>
+<p> </p>
 <p class="msg msg--success"><br><strong>😂千万注意：千万不要在 iCloud 登陆只能在 App Store 登陆，看下面图片单独放一张超级重要，先看图要按照图位置切换账号 。</strong></p>
 <p> </p>
 <p> </p>
@@ -236,6 +230,13 @@
 <blockquote>
 <p class="msg msg--info"><strong>1：点击iTunes Store 与 App Store 进去登录切换成我们的Apple ID 登录过程我就不截图</strong></p>
 <p><strong>安装软件</strong></p>
+<p>打开商店：搜索软件名称Outline或者点击下面链接🤪</p>
+<ul>
+<li>
+<p id="mcetoc_1e0ntaajq1" class="product-header__title app-header__title"><a href="https://apps.apple.com/us/app/outline-app/id1356177741">Outline App</a></p>
+</li>
+</ul>
+<p>App Store 上的 Outline App 由其作者Google团队进行维护，并非由我开发，如有疑问，请联系其作者。</p>
 </blockquote>
 <ol>
 <li class="align-left">搜索Outline 点击GET安装（根据您网络情况1-2分钟安装完成）</li>
@@ -303,7 +304,7 @@
         <id>https://iosapp.pw/android/index.html</id>
             <category term="安卓手机"/>
 
-        <updated>2020-02-10T06:28:27+08:00</updated>
+        <updated>2020-02-10T23:41:32+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://iosapp.pw/media/posts/7/android.jpg" alt="" />
@@ -388,7 +389,7 @@
         <id>https://iosapp.pw/linux/index.html</id>
             <category term="Linux系统"/>
 
-        <updated>2020-02-10T06:31:37+08:00</updated>
+        <updated>2020-02-10T23:41:37+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://iosapp.pw/media/posts/5/linux.jpg" alt="" />
@@ -442,7 +443,7 @@
         <link href="https://iosapp.pw/router-ss/index.html"/>
         <id>https://iosapp.pw/router-ss/index.html</id>
 
-        <updated>2020-02-10T06:27:50+08:00</updated>
+        <updated>2020-02-10T23:41:21+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://iosapp.pw/media/posts/9/router-ss.jpg" alt="" />
